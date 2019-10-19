@@ -7,7 +7,7 @@
   "license": "MIT",
   "main": "tsconfig.json",
   "repository": "https://github.com/amaurymartiny/config",
-  "devDependencies": {
+  "dependencies": {
     "@amaurymartiny/eslintrc": "^1.0.0",
     "@amaurymartiny/tsconfig": "^1.0.0"
   }
