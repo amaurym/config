@@ -1,6 +1,5 @@
 {
-  "name": "@amaurymartiny/config",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "author": "Amaury Martiny <amaury.martiny@protonmail.com>",
   "description": "Mostly common-sense configuration files for my projects",
   "license": "MIT",
@@ -10,6 +9,7 @@
     "packages/eslintrc"
   ],
   "devDependencies": {
+    "lerna": "^3.18.1",
     "typescript": "^3.6.4"
   }
 }

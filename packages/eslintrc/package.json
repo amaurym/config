@@ -1,6 +1,6 @@
 {
   "name": "@amaurymartiny/eslintrc",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "author": "Amaury Martiny <amaury.martiny@protonmail.com>",
   "description": "Mostly common-sense configuration for eslintrc",
   "files": [
