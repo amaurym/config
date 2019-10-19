@@ -4,10 +4,15 @@ A mostly common-sense configuration for eslintrc.
 
 ## Get Started
 
-In your projects root folder:
+Install the package
 
 ```bash
 yarn add --dev @amaurymartiny/eslintrc
+```
+
+In your projects root folder:
+
+```bash
 echo "module.exports = require('@amaurymartiny/eslintrc');" > .eslintrc.js
 echo "module.exports = require('@amaurymartiny/eslintrc/prettierrc');" > .prettierrc.js
 ```
