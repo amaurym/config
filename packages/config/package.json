@@ -3,10 +3,12 @@
   "version": "1.0.0",
   "author": "Amaury Martiny <amaury.martiny@protonmail.com>",
   "description": "Mostly common-sense configuration for tsconfig",
-  "files": [
-    "tsconfig.json"
-  ],
+  "files": [],
   "license": "MIT",
   "main": "tsconfig.json",
-  "repository": "https://github.com/amaurymartiny/config"
+  "repository": "https://github.com/amaurymartiny/config",
+  "devDependencies": {
+    "@amaurymartiny/eslintrc": "^1.0.0",
+    "@amaurymartiny/tsconfig": "^1.0.0"
+  }
 }
