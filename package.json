@@ -1,6 +1,6 @@
 {
   "author": "Amaury Martiny <amaury.martiny@protonmail.com>",
-  "description": "Mostly common-sense configuration files for my projects",
+  "description": "Mostly common-sense configuration files for `eslint` and `tsconfig`",
   "license": "MIT",
   "repository": "https://github.com/amaurymartiny/config",
   "private": true,

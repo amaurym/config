@@ -2,10 +2,8 @@
   "name": "@amaurymartiny/config",
   "version": "1.0.3",
   "author": "Amaury Martiny <amaury.martiny@protonmail.com>",
-  "description": "Mostly common-sense configuration files for eslint and tsconfig",
-  "files": [
-    "../../README.md"
-  ],
+  "description": "Mostly common-sense configuration files for `eslint` and `tsconfig`",
+  "files": [],
   "license": "MIT",
   "repository": "https://github.com/amaurymartiny/config",
   "dependencies": {
