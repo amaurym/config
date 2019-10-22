@@ -5,16 +5,16 @@
 
 <br /><br /><br />
 
-<h1 align="center">`@amaurymartiny/config`</h1>
+<h1 align="center"><code>@amaurymartiny/config</code></h1>
 <h4 align="center">💯 Mostly common-sense configuration files for `eslint` and `tsconfig`.
 </h4>
 
 <br /><br /><br />
 
-[`@amaurymartiny/config`](https://www.npmjs.com/package/@amaurymartiny/config) serves as bundle package for the following smaller packages:
+[`@amaurymartiny/config`](#-packages) serves as bundle package for the following smaller packages:
 
-✅ [`@amaurymartiny/eslintrc`](https://www.npmjs.com/package/@amaurymartiny/eslintrc)
-✅ [`@amaurymartiny/tsconfig`](https://www.npmjs.com/package/@amaurymartiny/tsconfig)
+- [`@amaurymartiny/eslintrc`](#-packages)
+- [`@amaurymartiny/tsconfig`](#-packages)
 
 So you can either add `@amaurymartiny/config` as a whole, or you can install the smaller parts individually. Since you are adding these packages as `devDependencies`, it should not add any overhead to your final bundle size.
 
