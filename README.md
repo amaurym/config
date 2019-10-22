@@ -26,11 +26,11 @@ And follow the Get Started guides of the following configs.
 
 ## 📦 Packages
 
-| Package                   | npm                                                                                                                       | Description                                                                        | Docs                           |
-| ------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------ |
-| `@amaurymartiny/config`   | [![npm](https://img.shields.io/npm/v/@amaurymartiny/config.svg)](https://www.npmjs.com/package/@amaurymartiny/config)     | Bundle package for all the packages below                                          | You're reading them            |
-| `@amaurymartiny/eslintrc` | [![npm](https://img.shields.io/npm/v/@amaurymartiny/eslintrc.svg)](https://www.npmjs.com/package/@amaurymartiny/eslintrc) | Config files for `eslint`. Basically `@typescript-eslint/recommended` + `prettier` | [README](./packages/eslintrc/) |
-| `@amaurymartiny/tsconfig` | [![npm](https://img.shields.io/npm/v/@amaurymartiny/tsconfig.svg)](https://www.npmjs.com/package/@amaurymartiny/tsconfig) | Config files for `tsconfig`, with `--strict`                                       | [README](./packages/tsconfig/) |
+| Package                            | npm                                                                                                                       | Description                                                                        | Docs                           |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------ |
+| `@amaurymartiny/config`            | [![npm](https://img.shields.io/npm/v/@amaurymartiny/config.svg)](https://www.npmjs.com/package/@amaurymartiny/config)     | Bundle package for all the packages below                                          | You're reading them            |
+| &dlcorn; `@amaurymartiny/eslintrc` | [![npm](https://img.shields.io/npm/v/@amaurymartiny/eslintrc.svg)](https://www.npmjs.com/package/@amaurymartiny/eslintrc) | Config files for `eslint`. Basically `@typescript-eslint/recommended` + `prettier` | [README](./packages/eslintrc/) |
+| &dlcorn; `@amaurymartiny/tsconfig` | [![npm](https://img.shields.io/npm/v/@amaurymartiny/tsconfig.svg)](https://www.npmjs.com/package/@amaurymartiny/tsconfig) | Config files for `tsconfig`, with `--strict`                                       | [README](./packages/tsconfig/) |
 
 ## 🤔 Why
 
