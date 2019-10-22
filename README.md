@@ -36,7 +36,7 @@ And follow the Get Started guides of the following configs.
 | [`@amaurymartiny/eslintrc`](./packages/eslintrc) | [![npm](https://img.shields.io/npm/v/@amaurymartiny/eslintrc.svg)](https://www.npmjs.com/package/@amaurymartiny/eslintrc) | Config files for `eslint`. Basically `@typescript-eslint/recommended` + `prettier` | [README](./packages/eslintrc/) |
 | [`@amaurymartiny/tsconfig`](./packages/tsconfig) | [![npm](https://img.shields.io/npm/v/@amaurymartiny/tsconfig.svg)](https://www.npmjs.com/package/@amaurymartiny/tsconfig) | Config files for `tsconfig`, with `--strict`                                       | [README](./packages/tsconfig/) |
 
-## 🤔 Why
+## 🤔 Why?
 
 I create a lot of [open-source projects](https://github.com/sponsors/amaurymartiny), and I like to factorize as much code/config as I can. In order to have a consistent coding style between all projects, I created this repo.
 
