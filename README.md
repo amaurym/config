@@ -7,10 +7,10 @@
 
 🤓 Mostly common-sense configuration files for `eslint` and `tsconfig`.
 
-`@amaurymartiny/config` serves as bundle package for the following smaller packages:
+[`@amaurymartiny/config`](https://www.npmjs.com/package/@amaurymartiny/config) serves as bundle package for the following smaller packages:
 
-- `@amaurymartiny/eslintrc`
-- `@amaurymartiny/tsconfig`
+- [`@amaurymartiny/eslintrc`](https://www.npmjs.com/package/@amaurymartiny/eslintrc)
+- [`@amaurymartiny/tsconfig`](https://www.npmjs.com/package/@amaurymartiny/tsconfig)
 
 So you can either add `@amaurymartiny/config` as a whole, or you can install the smaller parts individually. Since you are adding these packages as `devDependencies`, it should not add any overhead to your final bundle size.
 
@@ -28,8 +28,7 @@ And follow the Get Started guides of the following configs.
 
 | Package                   | npm                                                                                                                       | Description                                                                        | Docs                           |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------ |
-| `@amaurymartiny/config`   | [![npm](https://img.shields.io/npm/v/@amaurymartiny/config.svg)](https://www.npmjs.com/package/@amaurymartiny/config)     | Bundle package for all the packages below                                          | You're reading it              |
-|                           |                                                                                                                           |                                                                                    |                                |
+| `@amaurymartiny/config`   | [![npm](https://img.shields.io/npm/v/@amaurymartiny/config.svg)](https://www.npmjs.com/package/@amaurymartiny/config)     | Bundle package for all the packages below                                          | You're reading them            |
 | `@amaurymartiny/eslintrc` | [![npm](https://img.shields.io/npm/v/@amaurymartiny/eslintrc.svg)](https://www.npmjs.com/package/@amaurymartiny/eslintrc) | Config files for `eslint`. Basically `@typescript-eslint/recommended` + `prettier` | [README](./packages/eslintrc/) |
 | `@amaurymartiny/tsconfig` | [![npm](https://img.shields.io/npm/v/@amaurymartiny/tsconfig.svg)](https://www.npmjs.com/package/@amaurymartiny/tsconfig) | Config files for `tsconfig`, with `--strict`                                       | [README](./packages/tsconfig/) |
 
