@@ -5,7 +5,7 @@
   "repository": "https://github.com/amaurymartiny/config",
   "private": true,
   "scripts": {
-    "deploy": "lerna version --conventional-commits --no-push"
+    "deploy": "lerna version --conventional-commits && lerna publish from-git"
   },
   "workspaces": [
     "packages/*"
