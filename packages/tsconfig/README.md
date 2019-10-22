@@ -1,10 +1,15 @@
 # `@amaurymartiny/tsconfig`
 
-A mostly common-sense configuration for tsconfig.
+[![npm](https://img.shields.io/npm/v/amaurymartiny/tsconfig.svg)](https://www.npmjs.com/package/@amaurymartiny/tsconfig)
+![License](https://img.shields.io/npm/l/@amaurymartiny/tsconfig)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+[![Buy me a tree](https://img.shields.io/badge/Buy%20me%20a%20tree-%F0%9F%8C%B3-lightgreen)](https://offset.earth/amaurymartiny)
 
-## Get Started
+🤓 Mostly common-sense configuration files for `tsconfig`.
 
-In your projects root folder:
+## 🚀 Get Started
+
+In your project's root folder:
 
 ```bash
 yarn add --dev @amaurymartiny/tsconfig
@@ -18,13 +23,14 @@ And in your own `tsconfig.json`, add:
 }
 ```
 
-## Included Rules
+## 📖 Included Rules
 
-The only rule that I use is the following:
+I try to use as much defaults from the TypeScript team as possible, but I find `--strict` to be really useful to have elegant code.
 
 ```json
 {
   "compilerOptions": {
+    "esModuleInterop": true,
     "strict": true
   }
 }

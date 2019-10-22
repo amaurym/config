@@ -1,8 +1,13 @@
 # `@amaurymartiny/eslintrc`
 
-A mostly common-sense configuration for eslintrc.
+[![npm](https://img.shields.io/npm/v/amaurymartiny/eslintrc.svg)](https://www.npmjs.com/package/@amaurymartiny/eslintrc)
+![License](https://img.shields.io/npm/l/@amaurymartiny/eslintrc)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+[![Buy me a tree](https://img.shields.io/badge/Buy%20me%20a%20tree-%F0%9F%8C%B3-lightgreen)](https://offset.earth/amaurymartiny)
 
-## Get Started
+🤓 Mostly common-sense configuration files for `eslint`.
+
+## 🚀 Get Started
 
 Install the package
 
@@ -10,7 +15,7 @@ Install the package
 yarn add --dev @amaurymartiny/eslintrc
 ```
 
-In your projects root folder:
+In your project's root folder:
 
 ```bash
 echo "module.exports = require('@amaurymartiny/eslintrc');" > .eslintrc.js
@@ -19,7 +24,7 @@ echo "module.exports = require('@amaurymartiny/eslintrc/prettierrc');" > .pretti
 
 And now you should be able to lint your project.
 
-## Included Rules
+## 📖 Included Rules
 
 The set of rules I use is the following:
 
