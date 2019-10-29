@@ -1,11 +1,17 @@
 module.exports = {
   extends: [
-    'plugin:react/recommended',
+    'eslint:recommended',
+    'plugin:@typescript-eslint/eslint-recommended',
     'plugin:@typescript-eslint/recommended',
+    'plugin:@typescript-eslint/recommended-requiring-type-checking',
+    'plugin:react/recommended',
     'prettier/@typescript-eslint',
     'plugin:prettier/recommended'
   ],
   parser: '@typescript-eslint/parser',
+  parserOptions: {
+    project: './tsconfig.json'
+  },
   plugins: ['react', '@typescript-eslint', 'prettier', 'simple-import-sort'],
   rules: {
     'simple-import-sort/sort': 'error'
