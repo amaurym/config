@@ -1,6 +1,7 @@
 [![npm](https://img.shields.io/npm/v/@amaurymartiny/config.svg)](https://www.npmjs.com/package/@amaurymartiny/config)
 ![License](https://img.shields.io/npm/l/@amaurymartiny/config)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+[![dependencies Status](https://david-dm.org/amaurymartiny/config/status.svg?path=packages/config)](https://david-dm.org/amaurymartiny/config?path=packages/config)
 [![Buy me a tree](https://img.shields.io/badge/Buy%20me%20a%20tree-%F0%9F%8C%B3-lightgreen)](https://offset.earth/amaurymartiny)
 
 <br /><br /><br />
