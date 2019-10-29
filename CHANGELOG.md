@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.5](https://github.com/amaurymartiny/config/compare/v1.0.4...v1.0.5) (2019-10-29)
+
+
+### Bug Fixes
+
+* **eslint:** Add import-sort plugin ([5885d4d](https://github.com/amaurymartiny/config/commit/5885d4dd504058e320a0b548c8b3332afaad9ff3))
+* **eslint:** Add requiring-type-checking rules ([5ac4d6b](https://github.com/amaurymartiny/config/commit/5ac4d6b8824c35cbbd056e6628230299cc997d73))
+
+
+
+
+
 ## [1.0.4](https://github.com/amaurymartiny/config/compare/v1.0.3...v1.0.4) (2019-10-22)
 
 

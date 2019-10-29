@@ -1,6 +1,6 @@
 {
   "name": "@amaurymartiny/tsconfig",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "author": "Amaury Martiny <amaury.martiny@protonmail.com>",
   "description": "Mostly common-sense configuration for tsconfig",
   "files": [
