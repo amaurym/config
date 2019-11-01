@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.6](https://github.com/amaurymartiny/config/compare/v1.0.5...v1.0.6) (2019-11-01)
+
+
+### Bug Fixes
+
+* Add rule to allow args starting with _ ([7170b3b](https://github.com/amaurymartiny/config/commit/7170b3b1d5c0129077cf5af167d10bb5f3d9dfb5))
+
+
+
+
+
 ## [1.0.5](https://github.com/amaurymartiny/config/compare/v1.0.4...v1.0.5) (2019-10-29)
 
 
