@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.7](https://github.com/amaurymartiny/config/compare/v1.0.6...v1.0.7) (2019-11-02)
+
+
+### Bug Fixes
+
+* Add _ rule for [@typescript-eslint](https://github.com/typescript-eslint) ([87d7e11](https://github.com/amaurymartiny/config/commit/87d7e117f1ee38dc01d312c1097c92b3f18f2b96))
+
+
+
+
+
 ## [1.0.6](https://github.com/amaurymartiny/config/compare/v1.0.5...v1.0.6) (2019-11-01)
 
 
