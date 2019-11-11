@@ -5,13 +5,14 @@
   "repository": "https://github.com/amaurymartiny/config",
   "private": true,
   "scripts": {
-    "deploy": "lerna version --conventional-commits && lerna publish from-git"
+    "deploy": "lerna version --conventional-commits && lerna publish from-git",
+    "test": "lerna run test"
   },
   "workspaces": [
     "packages/*"
   ],
   "devDependencies": {
     "lerna": "^3.18.1",
-    "typescript": "^3.6.4"
+    "typescript": "^3.7.2"
   }
 }
