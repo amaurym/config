@@ -3,6 +3,45 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.1.0 (2020-03-23)
+
+* chore(deps-dev): bump typescript from 3.7.4 to 3.7.5 (#51) ([d513a92](https://github.com/amaurymartiny/config/commit/d513a92)), closes [#51](https://github.com/amaurymartiny/config/issues/51)
+* chore(deps-dev): bump typescript from 3.7.5 to 3.8.2 (#64) ([295676b](https://github.com/amaurymartiny/config/commit/295676b)), closes [#64](https://github.com/amaurymartiny/config/issues/64)
+* chore(deps-dev): bump typescript from 3.8.2 to 3.8.3 (#69) ([bf922a5](https://github.com/amaurymartiny/config/commit/bf922a5)), closes [#69](https://github.com/amaurymartiny/config/issues/69)
+* chore(deps): [security] bump acorn from 7.1.0 to 7.1.1 (#74) ([1f8a97b](https://github.com/amaurymartiny/config/commit/1f8a97b)), closes [#74](https://github.com/amaurymartiny/config/issues/74)
+* chore(deps): bump @typescript-eslint/eslint-plugin from 2.16.0 to 2.17.0 (#53) ([8fdbb00](https://github.com/amaurymartiny/config/commit/8fdbb00)), closes [#53](https://github.com/amaurymartiny/config/issues/53)
+* chore(deps): bump @typescript-eslint/eslint-plugin from 2.17.0 to 2.18.0 (#56) ([dc7a37a](https://github.com/amaurymartiny/config/commit/dc7a37a)), closes [#56](https://github.com/amaurymartiny/config/issues/56)
+* chore(deps): bump @typescript-eslint/eslint-plugin from 2.18.0 to 2.19.0 (#59) ([1458cb5](https://github.com/amaurymartiny/config/commit/1458cb5)), closes [#59](https://github.com/amaurymartiny/config/issues/59)
+* chore(deps): bump @typescript-eslint/eslint-plugin from 2.19.0 to 2.19.2 (#61) ([0d167f6](https://github.com/amaurymartiny/config/commit/0d167f6)), closes [#61](https://github.com/amaurymartiny/config/issues/61)
+* chore(deps): bump @typescript-eslint/eslint-plugin from 2.19.2 to 2.20.0 (#66) ([887989b](https://github.com/amaurymartiny/config/commit/887989b)), closes [#66](https://github.com/amaurymartiny/config/issues/66)
+* chore(deps): bump @typescript-eslint/eslint-plugin from 2.20.0 to 2.21.0 (#70) ([be6dc85](https://github.com/amaurymartiny/config/commit/be6dc85)), closes [#70](https://github.com/amaurymartiny/config/issues/70)
+* chore(deps): bump @typescript-eslint/eslint-plugin from 2.21.0 to 2.22.0 (#73) ([da09876](https://github.com/amaurymartiny/config/commit/da09876)), closes [#73](https://github.com/amaurymartiny/config/issues/73)
+* chore(deps): bump @typescript-eslint/eslint-plugin from 2.22.0 to 2.23.0 (#77) ([1e50198](https://github.com/amaurymartiny/config/commit/1e50198)), closes [#77](https://github.com/amaurymartiny/config/issues/77)
+* chore(deps): bump @typescript-eslint/eslint-plugin from 2.23.0 to 2.24.0 (#78) ([b5c21b0](https://github.com/amaurymartiny/config/commit/b5c21b0)), closes [#78](https://github.com/amaurymartiny/config/issues/78)
+* chore(deps): bump @typescript-eslint/parser from 2.16.0 to 2.17.0 (#52) ([f3554dd](https://github.com/amaurymartiny/config/commit/f3554dd)), closes [#52](https://github.com/amaurymartiny/config/issues/52)
+* chore(deps): bump @typescript-eslint/parser from 2.17.0 to 2.18.0 (#58) ([0b59d89](https://github.com/amaurymartiny/config/commit/0b59d89)), closes [#58](https://github.com/amaurymartiny/config/issues/58)
+* chore(deps): bump @typescript-eslint/parser from 2.18.0 to 2.19.0 (#60) ([aefdde6](https://github.com/amaurymartiny/config/commit/aefdde6)), closes [#60](https://github.com/amaurymartiny/config/issues/60)
+* chore(deps): bump @typescript-eslint/parser from 2.19.0 to 2.19.2 (#62) ([8b69009](https://github.com/amaurymartiny/config/commit/8b69009)), closes [#62](https://github.com/amaurymartiny/config/issues/62)
+* chore(deps): bump @typescript-eslint/parser from 2.19.2 to 2.20.0 (#65) ([95f5c8d](https://github.com/amaurymartiny/config/commit/95f5c8d)), closes [#65](https://github.com/amaurymartiny/config/issues/65)
+* chore(deps): bump @typescript-eslint/parser from 2.20.0 to 2.21.0 (#67) ([0d594fe](https://github.com/amaurymartiny/config/commit/0d594fe)), closes [#67](https://github.com/amaurymartiny/config/issues/67)
+* chore(deps): bump @typescript-eslint/parser from 2.21.0 to 2.22.0 (#72) ([714f9d3](https://github.com/amaurymartiny/config/commit/714f9d3)), closes [#72](https://github.com/amaurymartiny/config/issues/72)
+* chore(deps): bump @typescript-eslint/parser from 2.22.0 to 2.23.0 (#75) ([d70c167](https://github.com/amaurymartiny/config/commit/d70c167)), closes [#75](https://github.com/amaurymartiny/config/issues/75)
+* chore(deps): bump @typescript-eslint/parser from 2.23.0 to 2.24.0 (#80) ([39b547e](https://github.com/amaurymartiny/config/commit/39b547e)), closes [#80](https://github.com/amaurymartiny/config/issues/80)
+* chore(deps): bump eslint-config-prettier from 6.10.0 to 6.10.1 (#81) ([0dcd36a](https://github.com/amaurymartiny/config/commit/0dcd36a)), closes [#81](https://github.com/amaurymartiny/config/issues/81)
+* chore(deps): bump eslint-config-prettier from 6.9.0 to 6.10.0 (#55) ([ca55550](https://github.com/amaurymartiny/config/commit/ca55550)), closes [#55](https://github.com/amaurymartiny/config/issues/55)
+* chore(deps): bump eslint-plugin-react from 7.18.0 to 7.18.3 (#57) ([8e594fc](https://github.com/amaurymartiny/config/commit/8e594fc)), closes [#57](https://github.com/amaurymartiny/config/issues/57)
+* chore(deps): bump eslint-plugin-react from 7.18.3 to 7.19.0 (#71) ([f156adb](https://github.com/amaurymartiny/config/commit/f156adb)), closes [#71](https://github.com/amaurymartiny/config/issues/71)
+* chore(deps): bump eslint-plugin-react-hooks from 2.3.0 to 2.4.0 (#63) ([9bae285](https://github.com/amaurymartiny/config/commit/9bae285)), closes [#63](https://github.com/amaurymartiny/config/issues/63)
+* chore(deps): bump eslint-plugin-react-hooks from 2.4.0 to 2.5.0 (#68) ([9aeffba](https://github.com/amaurymartiny/config/commit/9aeffba)), closes [#68](https://github.com/amaurymartiny/config/issues/68)
+* chore(deps): bump eslint-plugin-react-hooks from 2.5.0 to 2.5.1 (#82) ([c31c643](https://github.com/amaurymartiny/config/commit/c31c643)), closes [#82](https://github.com/amaurymartiny/config/issues/82)
+* chore(deps): bump eslint-plugin-simple-import-sort from 5.0.0 to 5.0.1 (#54) ([be4df0a](https://github.com/amaurymartiny/config/commit/be4df0a)), closes [#54](https://github.com/amaurymartiny/config/issues/54)
+* chore(deps): bump eslint-plugin-simple-import-sort from 5.0.1 to 5.0.2 (#76) ([a555672](https://github.com/amaurymartiny/config/commit/a555672)), closes [#76](https://github.com/amaurymartiny/config/issues/76)
+* chore(deps): bump prettier from 1.19.1 to 2.0.1 (#79) ([8410d6a](https://github.com/amaurymartiny/config/commit/8410d6a)), closes [#79](https://github.com/amaurymartiny/config/issues/79)
+
+
+
+
+
 ## [1.0.11](https://github.com/amaurymartiny/config/compare/v1.0.10...v1.0.11) (2020-01-16)
 
 **Note:** Version bump only for package config
