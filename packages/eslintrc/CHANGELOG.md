@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://github.com/amaurymartiny/config/compare/v1.2.0...v1.3.0) (2020-05-30)
+
+
+### Features
+
+* Use tabs everywhere! ([#120](https://github.com/amaurymartiny/config/issues/120)) ([a2cb6ab](https://github.com/amaurymartiny/config/commit/a2cb6aba9fffa9900765b05287f62ce5185372e9))
+
+
+
+
+
 # [1.2.0](https://github.com/amaurymartiny/config/compare/v1.1.0...v1.2.0) (2020-05-27)
 
 **Note:** Version bump only for package @amaurymartiny/eslintrc
