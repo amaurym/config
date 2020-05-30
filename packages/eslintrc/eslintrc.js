@@ -1,40 +1,43 @@
 module.exports = {
-  extends: [
-    'eslint:recommended',
-    'plugin:@typescript-eslint/eslint-recommended',
-    'plugin:@typescript-eslint/recommended',
-    'plugin:@typescript-eslint/recommended-requiring-type-checking',
-    'plugin:react/recommended',
-    'prettier/@typescript-eslint',
-    'plugin:prettier/recommended'
-  ],
-  parser: '@typescript-eslint/parser',
-  parserOptions: {
-    project: './tsconfig.json'
-  },
-  plugins: [
-    'react',
-    'react-hooks',
-    '@typescript-eslint',
-    'prettier',
-    'simple-import-sort'
-  ],
-  rules: {
-    // Sort imports
-    'simple-import-sort/sort': 'error',
-    // Rules about react hooks
-    'react-hooks/rules-of-hooks': 'error',
-    'react-hooks/exhaustive-deps': 'warn',
-    // https://github.com/eslint/eslint/issues/2321#issuecomment-134665757
-    'no-unused-vars': [2, { args: 'all', argsIgnorePattern: '^_' }],
-    '@typescript-eslint/no-unused-vars': [
-      2,
-      { args: 'all', argsIgnorePattern: '^_' }
-    ]
-  },
-  settings: {
-    react: {
-      version: 'detect'
-    }
-  }
+	env: {
+		node: true,
+	},
+	extends: [
+		'eslint:recommended',
+		'plugin:@typescript-eslint/eslint-recommended',
+		'plugin:@typescript-eslint/recommended',
+		'plugin:@typescript-eslint/recommended-requiring-type-checking',
+		'plugin:react/recommended',
+		'prettier/@typescript-eslint',
+		'plugin:prettier/recommended',
+	],
+	parser: '@typescript-eslint/parser',
+	parserOptions: {
+		project: './tsconfig.json',
+	},
+	plugins: [
+		'react',
+		'react-hooks',
+		'@typescript-eslint',
+		'prettier',
+		'simple-import-sort',
+	],
+	rules: {
+		// Sort imports
+		'simple-import-sort/sort': 'error',
+		// Rules about react hooks
+		'react-hooks/rules-of-hooks': 'error',
+		'react-hooks/exhaustive-deps': 'warn',
+		// https://github.com/eslint/eslint/issues/2321#issuecomment-134665757
+		'no-unused-vars': [2, { args: 'all', argsIgnorePattern: '^_' }],
+		'@typescript-eslint/no-unused-vars': [
+			2,
+			{ args: 'all', argsIgnorePattern: '^_' },
+		],
+	},
+	settings: {
+		react: {
+			version: 'detect',
+		},
+	},
 };

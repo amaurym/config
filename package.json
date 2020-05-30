@@ -1,18 +1,18 @@
 {
-  "author": "Amaury Martiny <amaury.martiny@protonmail.com>",
-  "description": "Mostly common-sense configuration files for `eslint` and `tsconfig`",
-  "license": "MIT",
-  "repository": "https://github.com/amaurymartiny/config",
-  "private": true,
-  "scripts": {
-    "deploy": "lerna version --conventional-commits && lerna publish from-git",
-    "test": "lerna run test"
-  },
-  "workspaces": [
-    "packages/*"
-  ],
-  "devDependencies": {
-    "lerna": "^3.22.0",
-    "typescript": "^3.9.3"
-  }
+	"author": "Amaury Martiny <amaury.martiny@protonmail.com>",
+	"description": "Mostly common-sense configuration files for `eslint` and `tsconfig`",
+	"license": "MIT",
+	"repository": "https://github.com/amaurymartiny/config",
+	"private": true,
+	"scripts": {
+		"deploy": "lerna version --conventional-commits && lerna publish from-git",
+		"test": "lerna run test"
+	},
+	"workspaces": [
+		"packages/*"
+	],
+	"devDependencies": {
+		"lerna": "^3.22.0",
+		"typescript": "^3.9.3"
+	}
 }

@@ -10,6 +10,6 @@
   "main": "tsconfig.json",
   "repository": "https://github.com/amaurymartiny/config",
   "peerDependencies": {
-    "typescript": "^3.7.4"
+    "typescript": "^3.9.3"
   }
 }
