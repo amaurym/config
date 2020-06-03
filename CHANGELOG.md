@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.1](https://github.com/amaurymartiny/config/compare/v1.3.0...v1.3.1) (2020-06-03)
+
+
+### Bug Fixes
+
+* **eslintrc:** Add es6 ([d692122](https://github.com/amaurymartiny/config/commit/d6921224fdc6186d507783b44787202469ffdd6a))
+
+
+
+
+
 # [1.3.0](https://github.com/amaurymartiny/config/compare/v1.2.0...v1.3.0) (2020-05-30)
 
 
