@@ -26,7 +26,7 @@ module.exports = {
 	],
 	rules: {
 		// Sort imports
-		'simple-import-sort/sort': 'error',
+		'simple-import-sort/imports': 'error',
 		// Rules about react hooks
 		'react-hooks/rules-of-hooks': 'error',
 		'react-hooks/exhaustive-deps': 'warn',
