@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.4](https://github.com/amaurymartiny/config/compare/v1.3.3...v1.3.4) (2021-01-10)
+
+
+### Bug Fixes
+
+* **eslintrc:** Remove rules about no-unused-vars ([#243](https://github.com/amaurymartiny/config/issues/243)) ([f8c1971](https://github.com/amaurymartiny/config/commit/f8c1971c47d0bc76d00bc331d79e9342a7176f65))
+
+
+
+
+
 ## [1.3.3](https://github.com/amaurymartiny/config/compare/v1.3.2...v1.3.3) (2020-11-16)
 
 **Note:** Version bump only for package @amaurymartiny/eslintrc
