@@ -30,12 +30,6 @@ module.exports = {
 		// Rules about react hooks
 		'react-hooks/rules-of-hooks': 'error',
 		'react-hooks/exhaustive-deps': 'warn',
-		// https://github.com/eslint/eslint/issues/2321#issuecomment-134665757
-		'no-unused-vars': [2, { args: 'all', argsIgnorePattern: '^_' }],
-		'@typescript-eslint/no-unused-vars': [
-			2,
-			{ args: 'all', argsIgnorePattern: '^_' },
-		],
 	},
 	settings: {
 		react: {
