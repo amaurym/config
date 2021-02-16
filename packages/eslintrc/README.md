@@ -1,10 +1,10 @@
-[![npm](https://img.shields.io/npm/v/@amaurymartiny/eslintrc.svg)](https://www.npmjs.com/package/@amaurymartiny/eslintrc)
-![License](https://img.shields.io/npm/l/@amaurymartiny/eslintrc)
+[![npm](https://img.shields.io/npm/v/@amaurym/eslintrc.svg)](https://www.npmjs.com/package/@amaurym/eslintrc)
+![License](https://img.shields.io/npm/l/@amaurym/eslintrc)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![dependencies Status](https://david-dm.org/amaurymartiny/config/status.svg?path=packages/eslintrc)](https://david-dm.org/amaurymartiny/config?path=packages/eslintrc)
-[![Buy me a tree](https://img.shields.io/badge/Buy%20me%20a%20tree-%F0%9F%8C%B3-lightgreen)](https://offset.earth/amaurymartiny)
+[![dependencies Status](https://david-dm.org/amaurym/config/status.svg?path=packages/eslintrc)](https://david-dm.org/amaurym/config?path=packages/eslintrc)
+[![Buy me a tree](https://img.shields.io/badge/Buy%20me%20a%20tree-%F0%9F%8C%B3-lightgreen)](https://offset.earth/amaurym)
 
-# `@amaurymartiny/eslintrc`
+# `@amaurym/eslintrc`
 
 💯 Mostly common-sense configuration files for `eslint`.
 
@@ -13,14 +13,14 @@
 Install the package
 
 ```bash
-yarn add --dev @amaurymartiny/eslintrc
+yarn add --dev @amaurym/eslintrc
 ```
 
 In your project's root folder:
 
 ```bash
-echo "module.exports = require('@amaurymartiny/eslintrc');" > .eslintrc.js
-echo "module.exports = require('@amaurymartiny/eslintrc/prettierrc');" > .prettierrc.js
+echo "module.exports = require('@amaurym/eslintrc');" > .eslintrc.js
+echo "module.exports = require('@amaurym/eslintrc/prettierrc');" > .prettierrc.js
 ```
 
 And now you should be able to lint your project.

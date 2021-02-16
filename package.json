@@ -2,7 +2,7 @@
 	"author": "Amaury Martiny <amaury.martiny@protonmail.com>",
 	"description": "Mostly common-sense configuration files for `eslint` and `tsconfig`",
 	"license": "MIT",
-	"repository": "https://github.com/amaurymartiny/config",
+	"repository": "https://github.com/amaurym/config",
 	"private": true,
 	"scripts": {
 		"deploy": "lerna version --conventional-commits && lerna publish from-git",

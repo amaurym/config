@@ -1,5 +1,5 @@
 {
-	"name": "@amaurymartiny/eslintrc",
+	"name": "@amaurym/eslintrc",
 	"version": "1.3.4",
 	"author": "Amaury Martiny <amaury.martiny@protonmail.com>",
 	"description": "Mostly common-sense configuration for eslintrc",
@@ -9,7 +9,7 @@
 	],
 	"license": "MIT",
 	"main": "eslintrc.js",
-	"repository": "https://github.com/amaurymartiny/config",
+	"repository": "https://github.com/amaurym/config",
 	"scripts": {
 		"test": "eslint test/**/*"
 	},

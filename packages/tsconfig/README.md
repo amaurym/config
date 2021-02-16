@@ -1,10 +1,10 @@
-[![npm](https://img.shields.io/npm/v/@amaurymartiny/tsconfig.svg)](https://www.npmjs.com/package/@amaurymartiny/tsconfig)
-![License](https://img.shields.io/npm/l/@amaurymartiny/tsconfig)
+[![npm](https://img.shields.io/npm/v/@amaurym/tsconfig.svg)](https://www.npmjs.com/package/@amaurym/tsconfig)
+![License](https://img.shields.io/npm/l/@amaurym/tsconfig)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![dependencies Status](https://david-dm.org/amaurymartiny/config/status.svg?path=packages/tsconfig)](https://david-dm.org/amaurymartiny/config?path=packages/tsconfig)
-[![Buy me a tree](https://img.shields.io/badge/Buy%20me%20a%20tree-%F0%9F%8C%B3-lightgreen)](https://offset.earth/amaurymartiny)
+[![dependencies Status](https://david-dm.org/amaurym/config/status.svg?path=packages/tsconfig)](https://david-dm.org/amaurym/config?path=packages/tsconfig)
+[![Buy me a tree](https://img.shields.io/badge/Buy%20me%20a%20tree-%F0%9F%8C%B3-lightgreen)](https://offset.earth/amaurym)
 
-# `@amaurymartiny/tsconfig`
+# `@amaurym/tsconfig`
 
 💯 Mostly common-sense configuration files for `tsconfig`.
 
@@ -13,14 +13,14 @@
 In your project's root folder:
 
 ```bash
-yarn add --dev @amaurymartiny/tsconfig
+yarn add --dev @amaurym/tsconfig
 ```
 
 And in your own `tsconfig.json`, add:
 
 ```json
 {
-  "extends": "./node_modules/@amaurymartiny/tsconfig/tsconfig"
+  "extends": "./node_modules/@amaurym/tsconfig/tsconfig"
 }
 ```
 
